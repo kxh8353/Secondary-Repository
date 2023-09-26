@@ -1,0 +1,4 @@
+make and model: Toyota corolla
+year: 1992
+was asking $
+now asking $
